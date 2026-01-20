@@ -441,7 +441,7 @@ def calculate_realistic_charging_time(current_percent, target_percent, battery_c
 
 
 # Ana başlık
-st.markdown('<h1 class="main-title">⚡ EV Şarj Hesaplayıcı</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-title">⚡ EV Şarj Hesaplayıcı Salih PİRAZ</h1>', unsafe_allow_html=True)
 st.markdown('<p class="sub-title">Gerçekçi şarj eğrisi ile süre ve maliyet hesaplayın</p>', unsafe_allow_html=True)
 
 st.markdown('<div class="custom-divider"></div>', unsafe_allow_html=True)
@@ -747,3 +747,4 @@ st.markdown("""
     <p style="font-size: 0.75rem; margin-top: 0.5rem;">Not: Hesaplamalar tipik Li-ion batarya davranışına dayalıdır. Gerçek süreler çevresel koşullara, batarya sıcaklığına ve yaşına göre değişebilir.</p>
 </div>
 """, unsafe_allow_html=True)
+
